@@ -1,0 +1,169 @@
+INSERT INTO CUSTOMER
+VALUES("125", 
+	   "Joey", 
+       "Smith",
+       "17 Fourth St",
+       "Cody",
+       "WY", 
+       "82414",
+       "jsmith17@example.com",
+       80.68,
+       500.00,
+       "05"
+      );
+      
+      INSERT INTO CUSTOMER
+VALUES("182", 
+	   "Billy", 
+       "Rufton",
+       "21 Simple Cir",
+       "Garland",
+       "WY", 
+       "82435",
+       "billyruff@example.com",
+       43.13,
+       750.00,
+       "10"
+      );
+      
+      INSERT INTO CUSTOMER
+VALUES("227", 
+	   "Sandra", 
+       "Pincher",
+       "53 Verde Ln",
+       "Powell",
+       "WY", 
+       "82440",
+       "spinch2@example.com",
+       156.38,
+       500.00,
+       "15"
+      );
+      
+      INSERT INTO CUSTOMER
+VALUES("294", 
+	   "Samantha", 
+       "Smith",
+       "14 Rock Ln",
+       "Ralston",
+       "WY", 
+       "82440",
+       "ssmith5@example.com",
+       58.60,
+       500.00,
+       "10"
+      );
+      
+      INSERT INTO CUSTOMER
+VALUES("314", 
+	   "Tom", 
+       "Rascal",
+       "1 Rascal Farm Rd",
+       "Cody",
+       "WY", 
+       "82414",
+       "trascal13@example.com",
+       17.25,
+       250.00,
+       "15"
+      );
+      
+      INSERT INTO CUSTOMER
+VALUES("375", 
+	   "Melanie", 
+       "Jackson",
+       "42 Blackwater Way",
+       "Elk Butte",
+       "WY", 
+       "82433",
+       "mjackson5@example.com",
+       252.25,
+       250.00,
+       "05"
+      );
+      
+      INSERT INTO CUSTOMER
+VALUES("435", 
+	   "James", 
+       "Gonzalez",
+       "16 Rockway Rd",
+       "Wapiti",
+       "WY", 
+       "82450",
+       "jgonzo@example.com",
+       230.40,
+       1000.00,
+       "15"
+      );
+      
+      INSERT INTO CUSTOMER
+VALUES("492", 
+	   "Elmer", 
+       "Jackson",
+       "22 Jackson Farm Rd",
+       "Garland",
+       "WY", 
+       "82435",
+       "ejackson4@example.com",
+       45.20,
+       500.00,
+       "10"
+      );
+      
+      INSERT INTO CUSTOMER
+VALUES("543", 
+	   "Angie", 
+       "Hendricks",
+       "27 Locklear Ln",
+       "Powell",
+       "WY", 
+       "82440",
+       "ahendricks7@example.com",
+       315.00,
+       750.00,
+       "05"
+      );
+      
+      INSERT INTO CUSTOMER
+VALUES("616", 
+	   "Sally", 
+       "Cruz",
+       "199 18th Ave",
+       "Ralston",
+       "WY", 
+       "82440",
+       "scruz5@example.com",
+       8.33,
+       500.00,
+       "15"
+      );
+      
+      INSERT INTO CUSTOMER
+VALUES("721", 
+	   "Leslie", 
+       "Smith",
+       "123 Sheepland Rd",
+       "Elk Butte",
+       "WY", 
+       "82433",
+       "lsmith12@example.com",
+       166.65,
+       1000.00,
+       "10"
+      );
+      
+      INSERT INTO CUSTOMER
+VALUES("795", 
+	   "Randy", 
+       "Blacksmith",
+       "75 Stream Rd",
+       "Cody",
+       "WY", 
+       "82414",
+       "rblacksmith6@example.com",
+       61.50,
+       500.00,
+       "05"
+      );
+      
+      /* Inserting multiple rows into a table */

@@ -1,0 +1,10 @@
+SELECT
+*
+FROM
+SERVICE_REQUEST ST1
+WHERE EXISTS (
+  SELECT * FROM SERVICE_REQUEST ST2
+  WHERE ST1.NEXT_SERVICE_DATE != ST2.NEXT_SERVICE_DATE
+  AND ST1.PROPERTY_ID = ST2.PROPERTY_ID)
+  
+  /*This is how to find if two things are not equal to one another use aliases  */
